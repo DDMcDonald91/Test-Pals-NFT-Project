@@ -427,7 +427,7 @@ const ABI = [
 	}
 ];
 
-const ADDRESS = '0x975a65f81Fb214e3C324221Af816D408202B24DE';
+const ADDRESS = '0x28534162E9B24ad8FE055Fe33298D54bAbd2d7C3';
 
 async function connection() {
   if (window.ethereum) {
